@@ -7,7 +7,7 @@ header:
 
 Hey there! Thanks for visiting my data science portfolio. I hope that you find it interesting and learning something from the projects page. If you have any questions on the projects, have suggestions for improvements, or just want to say hello, feel free to send me an email, listed on the left side of the page.
 
-My name is Jimmy Lipko. I grew up in Northeastern Pennsylvania where I enjoyed hunting, hiking, boating, and campfires. I then left the area and attended [Fairfield University](www.fairfield.edu) in Fairfield, CT, majoring in Mathematics and Minoring in Economics. Some of my favorite  classes included Number Theory, Econometrics, Industrial Organization, and History of the Middle East. At Fairfield, I also enjoyed my time as a Resident Assistant, where I made great friends and assisted underclassmen. 
+My name is Jimmy Lipko. I grew up in Northeastern Pennsylvania where I enjoyed hunting, hiking, boating, and campfires. I then left the area and attended Fairfield University in Fairfield, CT, majoring in Mathematics and Minoring in Economics. Some of my favorite  classes included Number Theory, Econometrics, Industrial Organization, and History of the Middle East. At Fairfield, I also enjoyed my time as a Resident Assistant, where I made great friends and assisted underclassmen. 
 
 Currently, I am working as a data science associate at a tech startup in South Norwalk, Connecticut. I focus on predictive modeling and neural nets to predict churn rate. 
 
