@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jimmy Lipko"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "Data Scientist"
   location         : "Norwalk, CT"
   email            : "jimmy.lipko@gmail.com"
