@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects
+permalink: /projects/
 title: "Projects by Tag"
 author_profile: true
 header:
@@ -13,10 +13,8 @@ header:
 collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
-    {% assign posts =
-    group_items[forloop.index0] %}
-    <h2 id="{{ tag | slugify}}"
-    class="archive__subtitle">{{ tag }}</h2>
+    {% assign posts = group_items[forloop.index0] %}
+    <h2 id="{{ tag | slugify}}" class="archive__subtitle">{{ tag }}</h2>
     {% for post in posts %}
         {% include archive-single.html %}
     {% endfor %}
