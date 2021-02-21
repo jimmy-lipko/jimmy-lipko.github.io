@@ -1,3 +1,10 @@
+---
+title: "Working with BeautifulSoup"
+date: 2020-04-25
+tags: [Web Scraping],[Data Visualizations]
+---
+
+
 ## Mining Job Positions for Skills
 
 ### Which set of skills in the data science industry are the most important? 
